@@ -73,7 +73,7 @@ Note: I created another Repository to practice using VS Code to make Updates, Pu
 
 ### Update #2
 
-Adding this text to practice using VS Code to make changes to git 
+Adding this text to practice using VS Code to make changes to git. 
 
 ### Update #3
 
