@@ -65,16 +65,20 @@ Shortcuts I would like to start using:
 
 ##  Lab 6 Optiona l challenge - Updating git Using VS Code
 
-###Update #1
+### Update #1
 
 Added this text using VS Code and Commit & Sync my code to git hub.
 
 Note: I created another Repository to practice using VS Code to make Updates, Pull, Push Commit and Sync to git. 
 
-###Update #2
+### Update #2
 
 Adding this text to practice using VS Code to make changes to git 
 
-###Update #3
+### Update #3
 
 Adding this text to practice making change on github web and pulling updated file from VS Code.
+
+### Update #4
+
+Used VS Code Fetch and Sync to pull lastest file from github and then added this text and uploaded back to github from VS Code.
