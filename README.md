@@ -68,3 +68,7 @@ Shortcuts I would like to start using:
 Added this text using VS Code and Commit & Sync my code to git hub.
 
 Note: I created another Repository to practice using VS Code to make Updates, Pull, Push Commit and Sync to git. 
+
+Update #2
+
+Adding this text to practice using VS Code to make changes to git 
