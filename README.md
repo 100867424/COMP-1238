@@ -61,3 +61,10 @@ Shortcuts I would like to start using:
 
 ## Link to cli.md file in docs folder
 [CLI Commands](docs/cli.md)
+
+
+##  Lab 6 Optiona l challenge - Updating git Using VS Code
+
+Added this text using VS Code and Commit & Sync my code to git hub.
+
+Note: I created another Repository to practice using VS Code to make Updates, Pull, Push Commit and Sync to git. 
