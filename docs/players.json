@@ -16,11 +16,11 @@
     },
   
     {
-      "Name": "Serena Williams",
+      "Name": "Serena Williams",    // string
       "Sport": "Tennis",
-      "Team": {"Name": null, "City": null},
-      "Position": "Player",
-      "Age": 41
+      "Team": {"Name": null, "City": null}, // null
+      "Position": "Player", // string
+      "Age": 41 // number
     },
   
     {
