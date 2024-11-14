@@ -101,6 +101,7 @@
 -- From assignments
 -- WHERE course_id LIKE 'COMP1234'
 -- ORDER BY due_date;
+
 "HTML/CSS Basics"	"2024-09-20"
 "JavaScript Interactive Page"	"2024-10-10"
 
@@ -109,6 +110,7 @@
 
 -- SELECT min(due_date)
 -- FROM assignments
+
 "2024-09-10"
 
 
@@ -116,6 +118,7 @@
 
 -- SELECT max(due_date)
 -- From assignments;
+
 "2025-03-20"
 
 
